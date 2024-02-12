@@ -14,8 +14,9 @@ This repository is organized into directories that cater to distinct areas of st
 
 To dive into the `stats-ml-toolkit`, clone this repository to your local machine:
 
-[git clone https://github.com/pouriaetab/stats-ml-toolkit.git](git clone https://github.com/pouriaetab/stats-ml-toolkit.git)
-
+```bash
+git clone https://github.com/pouriaetab/stats-ml-toolkit.git
+```
 
 Navigate through the repository directories to explore the statistical methods provided.
 
