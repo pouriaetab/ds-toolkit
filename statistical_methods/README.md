@@ -95,29 +95,34 @@ This directory is organized to provide a comprehensive resource for exploring a 
    - Subtopics: Bayesian Inference, Bayesian Regression.
    - [Bayesian Statistics](in progress)
 
-### 20. **Structural Equation Modeling**
+### 20. **Causal Inference**
+   - The study of methods to infer causal relationships between variables.
+   - Subtopics: Potential Outcomes Framework, Randomized Controlled Trials, Observational Studies, Propensity Score Matching, Instrumental Variables, Difference-in-Differences, Regression Discontinuity.
+   - [Causal Inference](in progress)
+
+### 21. **Structural Equation Modeling**
    - Explores the complex relationships among observed and latent variables through multiple regression equations.
    - [Structural Equation Modeling](in progress)
 
-### 21. **Meta-Analysis**
+### 22. **Meta-Analysis**
    - Combining results from multiple studies.
    - [Meta-Analysis](in progress)
 
-### 22. **Power and Sample Size Calculation**
+### 23. **Power and Sample Size Calculation**
    - Determines the sample size required to detect an effect of a given size with a certain degree of confidence.
    - [Power and Sample Size Calculation](in progress)
 
-### 23. **Post-Hoc Tests**
+### 24. **Post-Hoc Tests**
    - Determining differences between group means after ANOVA.
    - Subtopics: Tukey's HSD Test, Bonferroni Correction, Scheffé's Test.
    - [Post-Hoc Tests](in progress)
 
-### 24. **Reliability Testing**
+### 25. **Reliability Testing**
    - Assessing the consistency of a measure.
    - Subtopics: Cronbach’s Alpha, Split-Half Reliability.
    - [Reliability Testing](in progress)
 
-### 25. **Path Analysis**
+### 26. **Path Analysis**
    - Assesses the direct and indirect relationships between variables in a multivariate setting.
    - [Path Analysis](in progress)
 

@@ -1,6 +1,6 @@
 # Stats-ML-Toolkit
 
-Welcome to the `stats-ml-toolkit`, a comprehensive repository aimed at consolidating the most commonly used statistical methods and machine learning models in one accessible location. This resource is intended for data scientists, and researchers, providing a broad range of examples and implementations to facilitate learning and application in data analysis and predictive modeling fields.
+Welcome to the `stats-ml-toolkit`, a curated collection of introductory topics on some of the most commonly used statistical methods in one accessible location. This resource is intended for data scientists, and researchers, providing a broad range of examples and implementations to facilitate learning and application in data analysis and predictive modeling fields.
 
 ## Description
 
@@ -8,7 +8,7 @@ This repository is organized into directories that cater to distinct areas of st
 
 ### Contents
 
-- **`statistical_methods/`**: For detailed information on the contents of this directory, please refer to the `README.md` file within the `statistical_methods` folder. It covers a wide array of statistical concepts from basic to advanced levels, providing examples in Jupyter Notebooks.
+- **`statistical_methods/`**: For detailed information on the contents of this directory, please refer to the [`README.md`](./statistical_methods/README.md) file within the `statistical_methods` folder. It covers a wide array of statistical concepts from basic to advanced levels, providing examples in Jupyter Notebooks.
 
 ## Getting Started
 
