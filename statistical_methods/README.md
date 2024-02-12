@@ -12,7 +12,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 2. **Inferential Statistics**
    - Techniques for making inferences about populations from samples.
    - Subtopics: Estimation (Point, Interval), Hypothesis Testing.
-   - [Inferential Statistics](in progress)
+   - [Inferential Statistics](./inferential_statistics)
 
 ### 3. **T-Test**
    - Comparing means under various conditions.
