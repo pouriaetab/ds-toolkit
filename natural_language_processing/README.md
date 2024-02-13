@@ -6,7 +6,7 @@ This directory provides resources for exploring various natural language process
 
 ### 1. **Retrieval-Augmented Generation (RAG)**
    - Understanding the RAG model and its applications.
-   - [Retrieval-Augmented Generation (RAG)](./retrieval_augmented_generation_rag.ipynb)
+   - [Retrieval-Augmented Generation (RAG)](./retrieval_augmented_generation_rag/retrieval_augmented_generation_rag.ipynb)
 
 ### 2. **Bidirectional Encoder Representations from Transformers (BERT)**
    - Exploring the BERT model and its variants.
