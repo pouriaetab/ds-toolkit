@@ -8,7 +8,7 @@ This repository is organized into directories that cater to distinct areas of st
 
 ### Contents
 
-- **`statistical_methods/`**: For detailed information on the contents of this directory, please refer to the [`README.md`](./statistical_methods/README.md) file within the `statistical_methods` folder. It covers a wide array of statistical concepts from basic to advanced levels, providing examples in Jupyter Notebooks.
+- [**`statistical_methods`**](./statistical_methods/): For detailed information on the contents of this directory, please refer to the [`README.md`](./statistical_methods/README.md) file within the [`statistical_methods`](./statistical_methods/) folder. It covers a wide array of statistical concepts from basic to advanced levels, providing examples in Jupyter Notebooks.
 
 ## Getting Started
 

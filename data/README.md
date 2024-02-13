@@ -1,4 +1,4 @@
-## Healthcare Dataset
+## [Healthcare Dataset](../statistical_methods/inferential_statistics/)
 
 - **Description:** This dataset contains healthcare-related data.
 - **Source:** [Healthcare Dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
