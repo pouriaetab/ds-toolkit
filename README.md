@@ -1,4 +1,4 @@
-# Stats-ML-Toolkit
+# DS-Toolkit
 
 Welcome to the `ds-toolkit`, a curated collection of introductory topics on some of the most commonly used statistical methods, machine learning models, and an introduction to Natural Language Processing (NLP) in one accessible location. This resource is intended for data scientists, and researchers, providing a broad range of examples and implementations to facilitate learning and application in data analysis and predictive modeling and beyond.
 
