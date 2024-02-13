@@ -1,10 +1,10 @@
 # Stats-ML-Toolkit
 
-Welcome to the `stats-ml-toolkit`, a curated collection of introductory topics on some of the most commonly used statistical methods in one accessible location. This resource is intended for data scientists, and researchers, providing a broad range of examples and implementations to facilitate learning and application in data analysis and predictive modeling fields.
+Welcome to the `ds-toolkit`, a curated collection of introductory topics on some of the most commonly used statistical methods, machine learning models, and an introduction to Natural Language Processing (NLP) in one accessible location. This resource is intended for data scientists, and researchers, providing a broad range of examples and implementations to facilitate learning and application in data analysis and predictive modeling and beyond.
 
 ## Description
 
-This repository is organized into directories that cater to distinct areas of statistical methods, with a plan to expand into machine learning models. Each directory contains Jupyter Notebooks that illustrate various techniques through simple practical examples.
+This repository is organized into directories that cater to distinct areas of data science. Each directory is dedicated to specific areas within the field, such as statistical methods, machine learning algorithms, and foundational NLP concepts. Contained within these directories are Jupyter Notebooks that offer hands-on examples and detailed implementations designed to demonstrate the techniques in a clear and practical manner.
 
 ### Contents
 
@@ -12,10 +12,10 @@ This repository is organized into directories that cater to distinct areas of st
 
 ## Getting Started
 
-To dive into the `stats-ml-toolkit`, clone this repository to your local machine:
+To dive into the `ds-toolkit`, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/pouriaetab/stats-ml-toolkit.git
+git clone https://github.com/pouriaetab/ds-toolkit.git
 ```
 
 Navigate through the repository directories to explore the statistical methods provided.
