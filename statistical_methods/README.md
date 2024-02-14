@@ -7,17 +7,17 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 1. **Descriptive Statistics**
    - Understanding basic statistical measures.
    - Subtopics: Mean, Median, Mode, Variance, Standard Deviation, Skewness, Kurtosis, Range, Interquartile Range.
-   - [Descriptive Statistics](./descriptive_statistics/)
+   - [Descriptive Statistics](./descriptive_statistics/descriptive_statistics.ipynb)
 
 ### 2. **Inferential Statistics**
    - Techniques for making inferences about populations from samples.
    - Subtopics: Estimation (Point, Interval), Hypothesis Testing.
-   - [Inferential Statistics](./inferential_statistics)
+   - [Inferential Statistics](./inferential_statistics/inferential_statistics.ipynb)
 
 ### 3. **T-Test**
    - Comparing means under various conditions.
    - Subtopics: One-Sample T-Test, Independent (Two-Sample) T-Test, Paired (Matched) T-Test.
-   - [T-Test](./t-_test)
+   - [T-Test](./t_test/t_test.ipynb)
 
 ### 4. **ANOVA (Analysis of Variance)**
    - Analyzing differences among group means.
