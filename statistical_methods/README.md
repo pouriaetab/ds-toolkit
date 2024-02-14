@@ -17,7 +17,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 3. **T-Test**
    - Comparing means under various conditions.
    - Subtopics: One-Sample T-Test, Independent (Two-Sample) T-Test, Paired (Matched) T-Test.
-   - [T-Test](./t_test/t_test.ipynb)
+   - [T_Test](./t_test/t_test.ipynb)
 
 ### 4. **ANOVA (Analysis of Variance)**
    - Analyzing differences among group means.
