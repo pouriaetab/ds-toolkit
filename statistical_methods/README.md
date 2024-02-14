@@ -22,7 +22,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 4. **ANOVA (Analysis of Variance)**
    - Analyzing differences among group means.
    - Subtopics: One-Way ANOVA, Two-Way ANOVA, Repeated Measures ANOVA.
-   - [ANOVA](in progress)
+   - [ANOVA](./anova_analysis_of_variance/anova_analysis_of_variance.ipynb)
 
 ### 5. **MANOVA (Multivariate Analysis of Variance)**
    - Extends ANOVA to assess multiple continuous dependent variables simultaneously.
