@@ -14,7 +14,6 @@ This repository is organized into directories that cater to distinct areas of da
 
 - [**`natural_language_processing`**](./natural_language_processing/): For detailed information on the contents of this directory, please refer to the [`README.md`](./natural_language_processing/README.md) file within the [`natural_language_processing`](./natural_language_processing/) folder.
 
-
 ## Getting Started
 
 To dive into the `ds-toolkit`, clone this repository to your local machine:
