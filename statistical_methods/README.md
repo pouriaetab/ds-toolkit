@@ -26,7 +26,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 5. **MANOVA (Multivariate Analysis of Variance)**
    - Extends ANOVA to assess multiple continuous dependent variables simultaneously.
-   - [MANOVA](in progress)
+   - [MANOVA](./manova_multivariate_analysis_of_variance/manova_multivariate_analysis_of_variance.ipynb)
 
 ### 6. **ANCOVA (Analysis of Covariance)**
    - Combines ANOVA and linear regression to adjust the effect of one or more quantitative covariates.
