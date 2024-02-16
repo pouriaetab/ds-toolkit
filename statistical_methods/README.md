@@ -30,7 +30,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 6. **ANCOVA (Analysis of Covariance)**
    - Combines ANOVA and linear regression to adjust the effect of one or more quantitative covariates.
-   - [ANCOVA](in progress)
+   - [ANCOVA](./ancova_analysis_of_covariance/ancova_analysis_of_covariance.ipynb)
 
 ### 7. **Chi-Squared Test**
    - Categorical data analysis.
