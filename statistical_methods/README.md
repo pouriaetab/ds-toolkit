@@ -35,7 +35,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 7. **Chi-Squared Test**
    - Categorical data analysis.
    - Subtopics: Test for Independence, Test for Goodness-of-Fit, Test for Homogeneity.
-   - [Chi-Squared Test](./chi_squared_test/chi_squared_test.ipynb) in progress
+   - [Chi-Squared Test](./chi_squared_test/chi_squared_test.ipynb)
 
 ### 8. **Fisher’s Exact Test**
    - Used for small sample sizes, providing an exact test for the association between categorical variables.
