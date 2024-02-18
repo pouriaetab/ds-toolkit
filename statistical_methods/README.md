@@ -39,7 +39,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 8. **Fisher’s Exact Test**
    - Used for small sample sizes, providing an exact test for the association between categorical variables.
-   - [Fisher's Exact Test](in progress)
+   - [Fisher's Exact Test](./fishers_exact_test/fishers_exact_test.ipynb)
 
 ### 9. **Bootstrapping**
    - Resampling technique for estimating a distribution of statistics by sampling with replacement.
