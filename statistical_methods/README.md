@@ -43,12 +43,12 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 9. **Bootstrapping**
    - Resampling technique for estimating a distribution of statistics by sampling with replacement.
-   - [Bootstrapping](in progress)
+   - [Bootstrapping](./bootstrapping/bootstrapping.ipynb)
 
 ### 10. **Non-Parametric Tests**
    - Alternatives to parametric testing.
    - Subtopics: Mann-Whitney U Test, Wilcoxon Signed-Rank Test, Kruskal-Wallis Test, Friedman Test.
-   - [Non-Parametric Tests](./in progress)
+   - [Non-Parametric Tests](in progress)
 
 ### 11. **Correlation Coefficients**
    - Quantifying the relationship between variables.
