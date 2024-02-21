@@ -53,7 +53,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 11. **Correlation Coefficients**
    - Quantifying the relationship between variables.
    - Subtopics: Pearson’s Correlation, Spearman’s Rank Correlation.
-   - [Correlation Coefficients]
+   - [Correlation Coefficients](./correlation_coefficients/correlation_coefficients.ipynb)
 
 ### 12. **Regression Analysis**
    - Modeling relationships between dependent and independent variables.
