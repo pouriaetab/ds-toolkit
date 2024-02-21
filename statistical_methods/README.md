@@ -53,21 +53,21 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 11. **Correlation Coefficients**
    - Quantifying the relationship between variables.
    - Subtopics: Pearson’s Correlation, Spearman’s Rank Correlation.
-   - [Correlation Coefficients]()
+   - [Correlation Coefficients]
 
 ### 12. **Regression Analysis**
    - Modeling relationships between dependent and independent variables.
    - Subtopics: Simple Linear Regression, Multiple Linear Regression, Logistic Regression, Polynomial Regression, Ridge Regression, Lasso Regression.
-   - [Regression Analysis]()
+   - [Regression Analysis]
 
 ### 13. **Factor Analysis**
    - Identifying underlying variables.
    - Subtopics: Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA).
-   - [Factor Analysis]()
+   - [Factor Analysis]
 
 ### 14. **Principal Component Analysis (PCA)**
    - Reduces the dimensionality of data while retaining most of the variation in the dataset.
-   - [Principal Component Analysis (PCA)]()
+   - [Principal Component Analysis (PCA)]
 
 ### 15. **Cluster Analysis**
    - Grouping objects based on similarities.
