@@ -48,86 +48,86 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 10. **Non-Parametric Tests**
    - Alternatives to parametric testing.
    - Subtopics: Mann-Whitney U Test, Wilcoxon Signed-Rank Test, Kruskal-Wallis Test, Friedman Test.
-   - [Non-Parametric Tests](in progress)
+   - [Non-Parametric Tests](./non_parametric_tests/non_parametric_tests.ipynb)
 
 ### 11. **Correlation Coefficients**
    - Quantifying the relationship between variables.
    - Subtopics: Pearson’s Correlation, Spearman’s Rank Correlation.
-   - [Correlation Coefficients](in progress)
+   - [Correlation Coefficients]()
 
 ### 12. **Regression Analysis**
    - Modeling relationships between dependent and independent variables.
    - Subtopics: Simple Linear Regression, Multiple Linear Regression, Logistic Regression, Polynomial Regression, Ridge Regression, Lasso Regression.
-   - [Regression Analysis](in progress)
+   - [Regression Analysis]()
 
 ### 13. **Factor Analysis**
    - Identifying underlying variables.
    - Subtopics: Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA).
-   - [Factor Analysis](in progress)
+   - [Factor Analysis]()
 
 ### 14. **Principal Component Analysis (PCA)**
    - Reduces the dimensionality of data while retaining most of the variation in the dataset.
-   - [Principal Component Analysis (PCA)](in progress)
+   - [Principal Component Analysis (PCA)]()
 
 ### 15. **Cluster Analysis**
    - Grouping objects based on similarities.
    - Subtopics: K-Means Clustering, Hierarchical Clustering, DBSCAN.
-   - [Cluster Analysis](in progress)
+   - [Cluster Analysis]()
 
 ### 16. **Discriminant Analysis**
    - Classifying observations into predefined classes.
    - Subtopics: Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA).
-   - [Discriminant Analysis](in progress)
+   - [Discriminant Analysis]()
 
 ### 17. **Time Series Analysis**
    - Analyzing time-ordered data.
    - Subtopics: Autoregressive (AR) Models, Moving Average (MA) Models, Autoregressive Integrated Moving Average (ARIMA) Models, Seasonal ARIMA (SARIMA), Vector Autoregression (VAR).
-   - [Time Series Analysis](in progress)
+   - [Time Series Analysis]()
 
 ### 18. **Survival Analysis**
    - Estimating time until an event of interest.
    - Subtopics: Kaplan-Meier Estimator, Cox Proportional Hazards Model.
-   - [Survival Analysis](in progress)
+   - [Survival Analysis]()
 
 ### 19. **Mixed Models**
    - Handling both fixed and random effects.
    - Subtopics: Linear Mixed Models (LMM), Generalized Mixed Models (GLMM).
-   - [Mixed Models](in progress)
+   - [Mixed Models]()
 
 ### 20. **Bayesian Statistics**
    - Approach to statistics emphasizing probability.
    - Subtopics: Bayesian Inference, Bayesian Regression.
-   - [Bayesian Statistics](in progress)
+   - [Bayesian Statistics]()
 
 ### 21. **Causal Inference**
    - The study of methods to infer causal relationships between variables.
    - Subtopics: Potential Outcomes Framework, Randomized Controlled Trials, Observational Studies, Propensity Score Matching, Instrumental Variables, Difference-in-Differences, Regression Discontinuity.
-   - [Causal Inference](in progress)
+   - [Causal Inference]()
 
 ### 22. **Structural Equation Modeling**
    - Explores the complex relationships among observed and latent variables through multiple regression equations.
-   - [Structural Equation Modeling](in progress)
+   - [Structural Equation Modeling]()
 
 ### 23. **Meta-Analysis**
    - Combining results from multiple studies.
-   - [Meta-Analysis](in progress)
+   - [Meta-Analysis]()
 
 ### 24. **Power and Sample Size Calculation**
    - Determines the sample size required to detect an effect of a given size with a certain degree of confidence.
-   - [Power and Sample Size Calculation](in progress)
+   - [Power and Sample Size Calculation]()
 
 ### 25. **Post-Hoc Tests**
    - Determining differences between group means after ANOVA.
    - Subtopics: Tukey's HSD Test, Bonferroni Correction, Scheffé's Test.
-   - [Post-Hoc Tests](in progress)
+   - [Post-Hoc Tests]()
 
 ### 26. **Reliability Testing**
    - Assessing the consistency of a measure.
    - Subtopics: Cronbach’s Alpha, Split-Half Reliability.
-   - [Reliability Testing](in progress)
+   - [Reliability Testing]()
 
 ### 27. **Path Analysis**
    - Assesses the direct and indirect relationships between variables in a multivariate setting.
-   - [Path Analysis](in progress)
+   - [Path Analysis]()
 
 Each subdirectory contains detailed resources to guide your understanding and application of these statistical methods. Happy exploring!
