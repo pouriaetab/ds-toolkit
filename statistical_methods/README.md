@@ -58,7 +58,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 12. **Regression Analysis**
    - Modeling relationships between dependent and independent variables.
    - Subtopics: Simple Linear Regression, Multiple Linear Regression, Logistic Regression, Polynomial Regression, Ridge Regression, Lasso Regression.
-   - [Regression Analysis]
+   - [Regression Analysis](./regression_analysis/regression_analysis.ipynb)
 
 ### 13. **Factor Analysis**
    - Identifying underlying variables.
