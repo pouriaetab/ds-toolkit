@@ -62,8 +62,8 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 13. **Factor Analysis**
    - Identifying underlying variables.
-   - Subtopics: Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA).
-   - [Factor Analysis]
+   - Subtopics: Exploratory Factor Analysis (EFA).
+   - [Factor Analysis](./factor_analysis/factor_analysis.ipynb)
 
 ### 14. **Principal Component Analysis (PCA)**
    - Reduces the dimensionality of data while retaining most of the variation in the dataset.
