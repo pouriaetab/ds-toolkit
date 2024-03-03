@@ -67,7 +67,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 
 ### 14. **Principal Component Analysis (PCA)**
    - Reduces the dimensionality of data while retaining most of the variation in the dataset.
-   - [Principal Component Analysis (PCA)]
+   - [Principal Component Analysis (PCA)](./principal_component_analysis_pca/principal_component_analysis_pca.ipynb)
 
 ### 15. **Cluster Analysis**
    - Grouping objects based on similarities.
