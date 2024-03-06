@@ -72,7 +72,7 @@ This directory is organized to provide a comprehensive resource for exploring a 
 ### 15. **Cluster Analysis**
    - Grouping objects based on similarities.
    - Subtopics: K-Means Clustering, Hierarchical Clustering, DBSCAN.
-   - [Cluster Analysis]
+   - [Cluster Analysis](./cluster_analysis/cluster_analysis.ipynb)
 
 ### 16. **Discriminant Analysis**
    - Classifying observations into predefined classes.
