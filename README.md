@@ -10,7 +10,7 @@ This repository is organized into directories that cater to distinct areas of da
 
 - [**`statistical_methods`**](./statistical_methods/): For detailed information on the contents of this directory, please refer to the [`README.md`](./statistical_methods/README.md) file within the [`statistical_methods`](./statistical_methods/) folder. It covers a wide array of statistical concepts from basic to advanced levels, providing examples in Jupyter Notebooks.
 
-- [**`machine_learning_mmethods`**](./machine_learning_methods/): This directory contains machine learning methods implemented in Python.
+- [**`machine_learning_methods`**](./machine_learning_methods/): This directory contains machine learning methods implemented in Python. For detailed information on the contents of this directory, please refer to the [`README.md`](./machine_learning_methods/README.md) file within the [`machine_learning_methods`](./machine_learning_methods/) folder.
 
 - [**`natural_language_processing`**](./natural_language_processing/): For detailed information on the contents of this directory, please refer to the [`README.md`](./natural_language_processing/README.md) file within the [`natural_language_processing`](./natural_language_processing/) folder.
 
