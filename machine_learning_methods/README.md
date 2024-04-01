@@ -5,6 +5,6 @@ This directory serves as a comprehensive resource for delving into various machi
 ## Table of Contents
 
 ### Physics-Informed Machine Learning
-   - Concepts: Incorporating physical laws and principles into machine learning models.
-   - Subtopics: Physics-Informed Neural Networks (PINNs)
-   - [Physics-Informed Neural Networks (PINNs)]
+   - Incorporating physical laws and principles into machine learning models.
+   - Subtopic: Physics-Informed Neural Networks (PINNs)
+   - [Physics-Informed Neural Networks (PINNs)](./physics_informed_machine_learning/physics_informed_neural_networks_pinns.ipynb)
