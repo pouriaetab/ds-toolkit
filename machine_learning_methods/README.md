@@ -6,4 +6,5 @@ This directory serves as a comprehensive resource for delving into various machi
 
 ### Physics-Informed Machine Learning
 Incorporating physical laws and principles into machine learning models.
-   - [Physics-Informed Neural Networks (PINNs)](./physics_informed_machine_learning/physics_informed_neural_networks_pinns.ipynb)
+   - [Forward Physics-Informed Machine Learning (Forward PIML)](./physics_informed_machine_learning_piml/forward_physics_informed_machine_learning_forward_piml/forward_phyiscs_informed_machine_learning_forward_piml.ipynb)
+   - [Physics-Informed Neural Networks (PINNs)](./physics_informed_machine_learning_piml/physics_informed_neural_networks_pinns/physics_informed_neural_networks_pinns.ipynb)
