@@ -1,0 +1,5 @@
+factor_analyzer==0.5.1
+matplotlib==3.8.2
+pandas==2.2.0
+scikit-learn==1.4.0
+
